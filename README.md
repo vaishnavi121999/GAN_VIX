@@ -16,7 +16,7 @@ Visual inspection does well while working with GANs, but to compare models which
 
 Feel free to let me know whether you think this metric was a good idea, whether it's appropriate, any discrepancies which can arise due to this,  and whether there's any better metric to compare model performance. 
 
-Email: aashnakunk@gmail.com
+Email: vd2345@nyu.edu
 
 # More details in the report in this repo 
 
